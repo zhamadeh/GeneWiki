@@ -1,0 +1,1005 @@
+ASXL1	chr20	32358330	32439319	plus	"Defining somatic mutations in acute myeloid leukaemia, myelodysplasia-related. Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis, defined by mutations in ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, or ZRSR2 (ICC, PMID: 35767897)., (ICC, PMID: 35767897)."			Core	Yes	Yes	LOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Optical Genome Mapping detected a [Rearrangements, copy number loss, disrupting insertions, deletions] on chromosome 20 involving the ASXL1 gene with a variant allele frequency of []. ASXL1 mutations frequently occur in myeloid malignancies and are associated with a poor prognosis (PMID: 36068610, 28179279,27069254). ASXL1 mutations in AML were an unfavorable prognostic factor as regards survival (median overall survival 15.9 months vs. 22.3 months; P=0.019), with a significantly lower complete response rate (61% vs. 79.6%; P=0.004) (PMID: 22058207). Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2 associated with adverse risk category (ELN, PMID: 35797463)."
+BCOR	chrX	32358331	40177329	minus	"Defining somatic mutations in acute myeloid leukaemia, myelodysplasia-related. Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis. Defined by mutations in ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, or ZRSR2 (ICC, PMID: 35767897)., (ICC, PMID: 35767897)."			Core	Yes	Yes	LOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Optical Genome Mapping detected a translocation t(X;17)(p11.4;q21.2) or [rearrangement,  loss, insertion, deletion] of BCOR with a variant allele frequency (VAF) of [%].  The t(X;17)(p11.4;q21.2) is a rare, but recurrent variant RARA translocation resulting a BCOR::RARA fusion (PMID: 35797463).  While PML::RARA fusions are considered to have a good prognosis the exact prognosis and response to therapy for variant RARA fusions in unclear.  Correlation with other clinical and pathologic findings is recommended. Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2 associated with adverse risk category (ELN, PMID: 35797463, 28179279,27069254)."
+EZH2	chr7	32358332	148884321	minus	"Defining somatic mutations in acute myeloid leukaemia, myelodysplasia-related; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; Defined by mutations in ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, or ZRSR2 (ICC, PMID: 35767897)., (ICC, PMID: 35767897)."			Core	Yes	Yes	LOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2 associated with adverse risk category (ELN, PMID: 35797463)"
+GATA2	chr3	32358333	128493201	minus		"Classification of AML with percentage of blasts required for diagnosis; AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2)/GATA2; MECOM(EVI1) ? 10%. Hematologic neoplasms with germline predisposition associated with a constitutional disorder affecting multiple organ systems; Myeloid neoplasms with germline GATA2 mutation. Subtypes of myeloid neoplasms associated with germline predisposition; Myeloid neoplasms with germline predisposition and potential organ dysfunction., (ICC, PMID: 35767897)."			Core	Yes	Yes	FUS/GOF	AML	"1A if fused to MECOM, otherwise 3A"	Optical Genome Mapping detected a t(3;3)(q21.3;q26.2). This is a recurrent abnormality resulting in a GATA2::MECOM(EVI1) fusion associated with adverse risk prognosis in the context of AML (PMID: 35797463).
+RUNX1	chr21	32358334	36004667	minus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with RUNX1::RUNX1T1 fusion, (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with t(8;21)(q22;q22.1)/RUNX1::RUNX1T1 ? 10%; Defined by mutations in ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, or ZRSR2, (ICC, PMID: 35767897)."	RUNXT1. MECOM	CBFA2T3	Core	Yes	Yes	GOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Optical Genome Mapping detected a translocation t(8;21)(q22;q22.1) or t(3;21)(q26.2;q22.1) or  t(16;21)(q24.3;q22.1) with a variant allele frequency (VAF) of [%].  t(8;21)(q22;q22.1) or t(3;21)(q26.2;q22.1) are recurrent abnormality resulting in a RUNX1::RUNX1T1  or RUNX1::MECOM fusion.  In the context of AML it is considered to have a favourable prognosis for RUNX1::RUNXT1 fusion and adverse prognosis for RUNX1::MECOM fusion, mainly based on results observed in intensively treated patients. Initial risk assignment may change during the treatment course based on the results from analyses of measurable residual disease. The t(16;21)(q24.3;q22.1) is a rare, recurrent abnormality resulting in a RUNX1::CBFA2T3 fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity with an unclear prognosis (PMID: 35767897). Concurrent KIT and/or FLT3 gene mutation does not alter risk categorization. Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2 associated with adverse risk category (ELN, PMID: 35797463)."
+SRSF2	chr17	32358335	76737333	minus	"Defining somatic mutations in acute myeloid leukaemia, myelodysplasia-related; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; Defined by mutations in ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, or ZRSR2, (ICC, PMID: 35767897)."			Core	Yes	Yes	LOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2 associated with adverse risk category (ELN, PMID: 35797463)"
+STAG2	chrX	32358336	124422664	plus	"Defining somatic mutations in acute myeloid leukaemia, myelodysplasia-related; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; Defined by mutations in ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, or ZRSR2, (ICC, PMID: 35767897)."			Core	Yes	Yes	LOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2 associated with adverse risk category (ELN, PMID: 35797463)"
+TP53	chr17	32358337	7687538	minus	"Classification and defining features of myelodysplastic neoplasms (MDS).; MDS with biallelic TP53 inactivation (MDS-biTP53). Subtypes of myeloid neoplasms associated with germline predisposition; Myeloid neoplasms with germline predisposition without a pre-existing platelet disorder or organ dysfunction, (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML and MDS/AML with mutated TP53† 10-19% (MDS/AML) and ? 20% (AML). Hematologic neoplasms with germline predisposition without a constitutional disorder affecting multiple organ systems; Myeloid or lymphoid neoplasms with germline TP53 mutation. Premalignant clonal cytopenias and myelodysplastic syndromes; Myelodysplastic syndrome with mutated TP53. Premalignant clonal cytopenias and myelodysplastic syndromes; MDS/AML with mutated TP53, (ICC, PMID: 35767897)."			Core	Yes	Yes	LOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Optical Genome Mapping detected a [INSERT REARRANGEMENT TYPE] on chromosome 17 involving the TP53 gene with a variant allele frequency of [].  Loss of function structural variants in TP53 likely have an adverse prognosis (PMID: 28179279,27069254, 35797463)"
+ZRSR2	chrX	32358338	15830694	plus	"Defining somatic mutations in acute myeloid leukaemia, myelodysplasia-related; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; Defined by mutations in ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, or ZRSR2, (ICC, PMID: 35767897)."			Core	Yes	Yes	LOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2 associated with adverse risk category (ELN, PMID: 35797463)"
+CEBPA	chr19	32358339	33302534	minus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with CEBPA mutation. Subtypes of myeloid neoplasms associated with germline predisposition; Myeloid neoplasms with germline predisposition without a pre-existing platelet disorder or organ dysfunction., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with in-frame bZIP CEBPA mutations ? 10%. Hematologic neoplasms with germline predisposition without a constitutional disorder affecting multiple organ systems; Myeloid neoplasms with germline CEBPA mutation (ICC, PMID: 35767897)., (ICC, PMID: 35767897)."			Core	Yes	Yes	LOF	AML (?10% blasts)	1A	Optical Genome Mapping detected a ______ on chromosome 19 involving the CEBPA gene with a variant allele frequency of [].  The prognostic significance of CEPBA structural variants is currently unclear.  Correlation with other clinical and pathologic findings is required. 
+CUX1	chr7	32358340	102258233	plus					Expanded	Yes	Yes	LOF		3A	"CUX1MT were present in 4% of chronic myeloid neoplasms (PMID: 31320321)The CUX1 gene, located on 7q22.1, has been characterized genetically as a haplo-insufficient tumor suppressor gene (PMID: 31320321)."
+DNMT3A	chr2	32358341	25341925	minus					Core	Yes	Yes	LOF		3A	"DNMT3A mutations are identified in 15-25% of AML cases, 12-18% of MDS case and 7-10% of MPN cases. In AML, there is conflicting data on the prognostic significance of DNMT3A mutations and outcome may depend on co-occurring mutations and age (NCCN Guidelines - AML 2023). Although one study identified an association between DNMT3A mutations and a decreased overall survival in MDS (PMID:21415852), there is insufficient data on the prognosis and predictive significance of DNMT3A mutations in MDS. In one study, DNMT3A mutations were associated with a negative prognostic impact in CMML (PMID:27733013). The predictive and prognostic significance of DNMT3A in MPN remain unclear."
+ETV6	chr12	32358342	11895377	plus	"Subtypes of myeloid neoplasms associated with germline predisposition; Myeloid neoplasms with germline predisposition and pre-existing platelet disorder, (WHO, PMID: 35732831)."	"Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions; Myeloid/lymphoid neoplasm with ETV6::ABL1, (ICC, PMID: 35767897)."	"MECOM, MNX1"	"GSX2, GSX1"	Core	Yes	Yes	LOF		"1A if fused to ABL1, MECOM, otherwise 3A"	"Optical Genome Mapping detected a translocation t(7;12)(q36.3;p13.2) or t(3;12)(q26.2;p13.2) or t(4;12)(q12;p13.2) or t(12;13)(p13.2;q12.2) with a variant allele frequency (VAF) of [%]. This is a rare, recurrent abnormality resulting in a ETV6::MNX1 fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms or the  ETV6::MECOM fusion. In the context of AML, the ETV6::MNX1 fusion is associated with an unclear, ETV6::MECOM fusion associated with adverse risk category (ELN, PMID: 35797463). The t(4;12)(q12;p13.2) and t(12;13)(p13.2;q12.2) are rare, recurrent abnormality resulting in a GSX2::ETV6 and ETV6::GSX1 fusions with unclear prognosis."
+FLT3	chr13	32358343	28100592	minus		"Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions; Myeloid/lymphoid neoplasm with FLT3 rearrangement (ICC, PMID: 35767897)., (ICC, PMID: 35767897)."	t(12;13)(p13.2;q12.2)/ ETV6::FLT3	"ZMYM2, TRIP11, SPTBN1, GOLGB1, CCDC88C, MYO18A, BCR, ETV6"	Core	Yes	Yes	FUS/GOF		1A	"Optical Genome Mapping detected a translocation of the ETV6 gene (12p13.2) with the FLT3 gene (13q12.2) with a variant allele frequency of ___.  The FLT3:: fusion is a rare, but recurrent rearrangement seen in myeloid and lymphoid neoplasia with eosinophilia and may respond to specific FLT3 inhibitors (PMID: 35767897).  "
+JAK2	chr9	32358344	5129948	plus	"Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions, (WHO, PMID: 35732831)."	"Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions; myeloid/lymphoid neoplasm with JAK2 rearrangement, (ICC, PMID: 35767897)."	t(8;9)(p22;p24.1)/ PCM1::JAK2	"ETV6, BCR, PCM1"	Core	Yes	Yes	FUS/GOF		1A	"Optical Genome Mapping detected a translocation t(9;12)(p24;p13), t(9;22)(p24;q11.2), or t(8;9)(p22;p24.1) with the JAK2 gene (9p24.1) with a variant allele frequency of ___.  The ETV6::JAK2, BCR::JAK2, or PCM1::JAK2 fusion is a rare, but recurrent rearrangement seen in myeloid and lymphoid neoplasia with eosinophilia and may respond to targeted therapy (limited response to ruxolitib). The BCR fusion is oncogenic, PCM1 is likely oncogenic and ETV6 is unknown."
+KMT2A	chr11	32358345	118526832	plus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with KMT2A rearrangement, (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with t(9;11)(p21.3;q23.3)/MLLT3::KMT2A ? 10%. Classification of AML with percentage of blasts required for diagnosis; AML with other KMT2A rearrangements† ? 10%, (ICC, PMID: 35767897)."	"AFF1, AFDN, MLLT3, MLLT10, TET1, ELL, MLLT1"		Core	Yes	Yes	FUS/GOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Optical Genome Mapping detected a t(v;11q23.3)/KMT2A-rearrangement associated with _____ risk category in the context of AML based on results observed in intensively treated patients. Initial risk assignment may change during the treatment course based on the results from analyses of measurable residual disease. Over 100 KMT2A fusion partners have been described where the seven most frequent translocation partners account for more than 90% of all recombinations of the KMT2A, 37 occur recurrently and 63 were identified so far only once (PMID: 37019990). AFF1, AFDN, MLLT10, TET1, ELL and MLLT1 fusion partners are associated with adverse risk categorization whereas MLLT3 is associacted with intermediate risk (ELN, PMID: 35797463). The presence of t(9;11)(p21.3;q23.3) MLLT3::KMT2A takes precedence over rare, concurrent adverse risk gene mutations. t(v;11q23.3)/KMT2A-rearrangement is associated with adverse risk category excluding KMT2A partial tandem duplication (PTD)(ELN, PMID: 35797463)."
+NPM1	chr5	32358346	171411810	plus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with NPM1 mutation, (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with mutated NPM1 ? 10%, (ICC, PMID: 35767897)."	"RARA, TYK2, MLF1"		Core	Yes	Yes	LOF	AML	1A	"Optical Genome Mapping detected a translocation t(5;17)(q35.1;q21.2), t(5;19)(q35;p13) or t(3;5)(q25.3;q35.1) with a variant allele frequency (VAF) of [%].  This is a rare, recurrent abnormality resulting in a NPM1::RARA, NPM1::TYK2 or NPM1::MLF1 fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (ICC, PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear. Mutated NPM1 without FLT3-ITD has favourable risk category based on results observed in intensively treated patients. Initial risk assignment may change during the treatment course based on the results from analyses of measurable residual disease. Mutated NPM1 with FLT3-ITD associated with intermediate risk category based on results observed in intensively treated patients. Initial risk assignment may change during the treatment course based on the results from analyses of measurable residual disease. AML with NPM1 mutation and adverse-risk cytogenetic abnormalities are categorized as adverse-risk. (ELN, PMID: 35797463)"
+PDGFRA	chr4	32358347	54298245	plus		"Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusion; Myeloid/lymphoid neoplasm with PDGFRA rearrangement, (ICC, PMID: 35767897)."	Cryptic deletion at 4q12/ FIP1L1::PDGFRA	"CDK5RAP2; STRN; KIF5B; TNKS2; ETV6, BCR"	No	Yes	Yes	FUS/GOF		1A	"Optical Genome Mapping detected a translocation or deletion of the PDGFRA gene (4q12) with the CDK5RAP2, STRN, FIP1L1, KIF5B, TNKS2, ETV6, or BCR gene with a variant allele frequency of ___.  The CDK5RAP2::PDGFRA, STRN::PDGFRA, FIP1L1::PDGFRA, KIF5B::PDGFRA, TNKS2::PDGFRA, ETV6::PDGFRA, or BCR::PDGFRA fusion is a recurrent rearrangement seen in myeloid and lymphoid neoplasia with eosinophilia and will likely respond well to tyrosine kinase inhibitors. This fusion is likely oncogenic (except for TNKS2::PDGFRA) and has a likely gain of function mutation effect (PMID: 35767897)."
+PHF6	chrX	32358348	134428790	plus					Core	Yes	Yes	LOF	"AML, MDS, MPN"	3A	"PHF6 loss-of-function mutations are identified in approximately 3% of AML cases (Todd (2015) PMID:26103525) but are reported to be more frequent in mixed phenotype acute leukemias (Xiao (2018) PMID:30530780). The predictive and prognostic significance of PHF6 mutations in AML remain uncertain (Mori (2016) PMID:27479181). PHF6 loss-of-function mutations are identified in less than 5% of MDS cases. In MDS, PHF6 mutations are more frequent in cases with excess blasts but are not reported to be independently prognostic (NCCN Guidelines - MDS 2023). PHF6 loss-of-function mutations are identified in approximately 1% of MPN cases. The predictive and prognostic significance of PHF6 mutations in MPN remain uncertain (Mori (2016) PMID:27479181)."
+RAD21	chr8	32358349	116874776	minus					Core	Yes	Yes	LOF	AML and MDS	3A	"AD21 mutations are identified in approximately 4-5% of AML cases. The predictive and prognostic significance of RAD21 mutations in AML remain uncertain (Tsai (2017) PMID:29288251; Thol (2014) PMID:24335498). Mutations in cohesin complex genes, including RAD21, are identified in approximately 8-12% of MDS cases (Kon (2013) PMID:23955599; Thota (2014) PMID:25006131). Although one study identified an association between cohesin complex mutations and a decreased overall survival (Thota (2014) PMID:25006131) there is insufficient data on the prognosis and predictive significance of cohesion complex gene mutation in MDS. "
+SF3B1	chr2	32358350	197435079	minus	"Classification and defining features of myelodysplastic neoplasms (MDS); MDS with low blasts and SF3B1 mutationa (MDS-SF3B1). Defining somatic mutations in acute myeloid leukaemia, myelodysplasia-related; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; Defined by mutations in ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, or ZRSR2. Premalignant clonal cytopenias and myelodysplastic syndromes; Myelodysplastic syndrome with mutated SF3B1, (ICC, PMID: 35767897)."			Core	Yes	Yes	LOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2 associated with adverse risk category (ELN, PMID: 35797463)"
+TET2	chr4	32358351	105279803	plus					Core	Yes	Yes	LOF		2	"TET2 mutations have been identified in approximately 10-20% of AML cases. In AML, a recent meta-analysis revealed TET2 mutations to be associated with inferior outcomes (Wang (2019) PMID:31023266). While TET2 mutations have been identified in approximately 20-25% of MDS cases, they have not been found to be a significant prognostic marker. Response to hypomethylating agents does however appear to be better in patients harbouring TET2 mutations (NCCN Guidelines - MDS 2023). "
+U2AF1	chr21	32358352	43107570	minus	"Defining somatic mutations in acute myeloid leukaemia, myelodysplasia-related; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; Defined by mutations in ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, or ZRSR2, (ICC, PMID: 35767897)."			Core	Yes	Yes	LOF	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2 associated with adverse risk category (ELN, PMID: 35797463)"
+WT1	chr11	32358353	32435539	minus					Core	Yes	Yes	LOF	"AML, MDS, MPN"	"1B for MDS, 3A for AML, MPN"	"In myeloid malignancies, disruption of WT1 promotes stem cell proliferation and leukemic transformation (Pronier (2018) PMID:30064973; Rampal (2016) PMID:27252512). WT1 mutations have been identified in approximately 10% of AML patients. Conflicting data exists regarding the prognostic or predictive significance of WT1 mutations in AML (Rampal (2016) PMID:27252512; Marcucci (2011) PMID:21220609). WT1 mutations are uncommon in MDS patients. In MDS, WT1 mutations are associated with a poor prognosis (NCCN Guidelines - MDS 2023) and with a higher risk of transformation to secondary AML (Makishima (2017) PMID:27992414). WT1 mutations are rarely identified in MPN patients.  The predictive and prognostic significance of WT1 mutations in MPNs remain uncertain. "
+ABL1	chr9	32358354	130887675	plus	"Acute myeloid leukaemia with BCR::ABL1 fusion, (WHO, PMID: 35732831)."	"AML with t(9;22)(q34.1;q11.2)/BCR::ABL1§ ? 20%, (ICC, PMID: 35767897)."	BCR		No	Yes	Yes	FUS	AML	"1A if fused with BCR, otherwise 3A"	Optical Genome Mapping detected a translocation t(9;22)(q34.1;q11.2) with a variant allele frequency (VAF) of [%].  The t(9;22)(q34.1;q11.2) is a recurrent abnormality resulting in a BCR::ABL1 fusion.  In the context of AML it is considered to have an adverse  prognosis according to the ELN 2022 (PMID: 35797463).
+BCORL1	chrX	32358355	130058071	plus					No	Yes	Yes	LOF		2	
+BRAF	chr7	32358356	140924929	minus					Expanded	Yes	Yes	GOF		3A	"The activating V600E BRAF mutation is found in 50% of Langerhans cell histiocytosis (LCH) myeloid neoplasms (PMID: 34996063) and is consdered a molecular marker of hairy cell leukemia (HCL) present in >95% of cases (WHO, PMID: 35732829). BRAF mutations are found in <1% of MDS cases with clinical implications that are likely similar to those of NRAS mutations (Lindsley (2013) PMID:22934674)"
+CALR	chr19	32358357	12944489	plus					Core	Yes	Yes	LOF	"AML, MPN"	"1B for altered C terminals in MPN, 3A for AML"	CALR mutations are identified in 20-25% of MF and ET cases though rarely identified in de novo AML cases. PMF patients with a CALR mutation have improved survival compared to either JAK2-mutant or triple-negative patients (NCCN Guidelines - MPN 2023) and ET patients with a CALR mutation have a lower-risk of thrombosis compared to JAK2-mutated ET (NCCN Guidelines - MPN 2023). The predictive and prognostic significance of CALR in AML remain uncertain.
+CBL	chr11	32358358	119308149	plus					Core	Yes	Yes	LOF	"AML, MDS, MPN, AA"	"1B for MPN, 2 for AML, 3A for MDS"	"CBL mutations occur in 1-3% of AML cases, 1-2% of all MPN caes, 5% of MDS cases and 10-15% in MDS/MPN overlap syndromes (e.g. CMML) (NCCN Guidelines - MDS 2023). Preclinical studies have shown leukemic cells expressing mutant CBL and wild-type FLT3 are sensitive to FLT3 inhibition (Weisberg (2019) PMID: 31309543; Weisberg (2020) PMID: 31943762). The predictive and prognostic significance of CBL mutations in MDS remain uncertain. CBL mutations are associated with inferior overall survival in MF patients post allogeneic SCT (NCCN Guidelines - MPN 2022). "
+CDKN2A	chr9	32358359	21974857	minus					No	Yes	Yes	LOF		2	
+CSF3R	chr1	32358360	36483314	minus					Core	Yes	Yes	GOF	"AML, MDS, MPN"	"3A for AML/MDS, activating mutation could be 2 for some MPNs"	"CSF3R mutations are identified in approximately 2-4% of AML cases and 1-2% of MDS cases. Activating mutations of the CSF3R protein lead to constitutive JAK-STAT pathway signalling (Zhang (2017) PMID:28439110). The predictive and prognostic significance of CSF3R mutations in AML remain uncertain. Activating changes in CSF3R are a diagnostic feature of chronic neutrophilic leukemia (CNL) (WHO PMID: 31769070) but may also be identified in a subset of atypical chronic myeloid leukemia (aCML) and chronic myelomonocytic leukemia (CMML) (NCCN Guidelines - MDS 2021; Pardanani (2013) PMID:23604229, Gotlib (2013) PMID:23896413; Maxson (2013) PMID:23656643). Activating CSF3R changes are associated with more aggressive disease in CNL and sensitivity to ruxolitinib (Dao (2020) PMID:31880950, Szuber (2020) PMID:31769070). Emerging data suggests that aCML patients with CSF3R or JAK2 mutations may respond to ruxolitinib therapy in combination with HMAs (hypomethylating agent) (NCCN Guidelines - MDS 2021)."
+DDX41	chr5	32358361	177516961	minus	"Subtypes of myeloid neoplasms associated with germline predisposition; Myeloid neoplasms with germline predisposition without a pre-existing platelet disorder or organ dysfunction, (WHO, PMID: 35732831)."	"Hematologic neoplasms with germline predisposition without a constitutional disorder affecting multiple organ systems; Myeloid or lymphoid neoplasms with germline DDX41 mutation, (ICC, PMID: 35767897)."			Expanded	Yes	Yes	LOF		1A	
+FGFR1	chr8	32358362	38468834	minus		"Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions; Myeloid/lymphoid neoplasm with FGFR1 rearrangement, (ICC, PMID: 35767897)."	t(8;13)(p11.2;q12.1)/ ZMYM2::FGFR1	"15 other partners including BCR (ZMYM2, TPR, RANBP2, LRRFIP1, SQSTM1, CUX1, TRIM24, FGFR1, HOOK3, CNTRL, FGFR1OP2, CPSF6, MYO18A, ERVK3-1, BCR)"	Expanded	Yes	Yes	FUS/GOF		1A	Optical Genome Mapping detected a ____ translocation resulting in a ____:::FGFR1 fusion gene.  The _____ fusion is a recurrent rearrangement seen in 8p11 Myeloproliferative Syndrome and may respond to targeted FGFR inhibitor(s). (PMID: 35767897).
+GATA1	chrX	32358363	48794311	plus					Expanded	Yes	Yes	FUS		3A	
+IDH1	chr2	32358364	208255071	minus					Core	Yes	Yes	GOF	"AML, MDS, MPN"	1 or 2 depending on disease context	"IDH1 mutations are identified in 6-9% of AML cases, <5% of MDS and MPN cases. For AML, treatment with the IDH1 inhibitor ivosidenib may be of benefit (NCCN Guidelines - AML 2023). For MDS, there is emerging data demonstrating the effectiveness of ivosidenib for MDS (Medeiros (2017) PMID:27721426; NCCN Guidelines - MDS 2022). For MPN cases, IDH1 mutations in PV and ET are associated with inferior overall survival and in PMF with inferior leukemia-free survival and leukemic transformation (NCCN Guidelines - MPN 2022)."
+IDH2	chr15	32358365	90102468	minus					Core	Yes	Yes	GOF	"AML, MDS, MPN"	"1A for MDS ior MPN, 3A for AML"	"IDH2 mutations are identified in 10-20% of AML cases, <5% of MDS cases, and <5% of MPN cases. The IDH2 inhibitor enasidenib has been withdrawn from Health Canada for relapsed/refractory AML as of 30 June 2023 following Phase 3 clinical trials (https://recalls-rappels.canada.ca/en/alert-recall/idhifa-enasidenib-mesylate-market-withdrawal-and-continued-access; NCCN Guidelines - AML 2023). IDH2 mutations have been associated with inferior outcomes. This notwithstanding, there is emerging data demonstrating the effectiveness of enasidenib in IDH2 mutated MDS (NCCN Guidelines - MDS v1.2023).  IDH2 mutations in PV and ET are associated with inferior overall survival and in PMF with inferior leukemia-free survival and leukemic transformation (NCCN Guidelines - MPN 2022).  "
+IKZF1	chr7	32358366	50405101	plus					Expanded	Yes	No	LOF		3A	IKZF1 mutation is one rare but recurrent alteration in AML but the clinical impact of IKZF1 mutation on AML remains undefined (PMID: 33081843).
+KDM6A	chrX	32358367	45112779	plus					Core	No	Yes	LOF	"AML, MDS, MPN"	3A	"KDM6A mutations are identified in approximately 2% of AML cases (COSMIC), 1-2% of MDS cases and is rarely identified in MPN. The predictive and prognostic significance of KDM6A mutations in AML, MDS and MPN remain uncertain."
+KIT	chr4	32358368	54740715	plus					Core	Yes	Yes	GOF	"AML, MDS, MPN"	"2 for AML, 3A for MDS and MPN"	"KIT mutations are identified in ~20% of CBF-AML (DiNardo (2016) PMID:27913501) and are infrequent in MDS and MPN. A meta-analysis of CBF AML showed that a KIT mutation in patients with t(8;21), but not inv(16), was associated with an increased risk of relapse and shorter OS (Chen (2016) PMID: 26771376). Nevertheless, 2017 ELN guidelines indicate that KIT mutation status should not be used to assign a patient to a different genetic risk category (Dohner (2017) PMID: 27895058).  The predictive and prognostic significance of KIT mutations in MDS and MPN remains uncertain"
+KRAS	chr12	32358369	25250929	minus					Core	Yes	Yes	GOF	"AML, MDS, MPN"	"1B for MDS and MPN, 3A for AML"	"RAS mutations are identified in ~6% of AML patients (Metzeler (2016) PMID:27288520), 1-2% of MDS patients with a higher frequency in JMML patients (10-15%) (NCCN Guidelines - MDS 2023), and 6% of MPN cases. KRAS mutations have not been found to be a significant prognostic marker in AML but are associated with poor outcome in MDS and MPN (PMID:30194935, PMID:21220588, PMID:28223278, PMID:31628430).  "
+MECOM	chr3	32358370	169663775	minus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with MECOM rearrangement, (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2)/GATA2; MECOM(EVI1) ? 10%. Classification of AML with percentage of blasts required for diagnosis; AML with other MECOM rearrangements‡ ? 10%, (ICC, PMID: 35767897)."	"GATA2, MYC, ETV6, RUNX1"		Expanded	Yes	Yes	FUS	AML	1A	"Optical Genome Mapping detected a t(3;8)(q26.2;q24.2), t(3;12)(q26.2;p13.2), t(3;21)(q26.2;q22.1), inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2). This is a recurrent abnormality resulting in a GATA2::MECOM(EVI1), MYC::MECOM, ETV6::MECOM, RUNX1::MECOM or novel t(3q26.2;v)/MECOM(EVI1)-rearrangement associated with adverse risk category (ELN, PMID: 35797463)"
+MPL	chr1	32358371	43354466	plus					Core	Yes	Yes	GOF	"AML, MDS, MPN"	"1A for MPN, 3A for MDS and AML"	MPL activating mutations are rarely identified in AML cases.  The predictive and prognostic significance of MPL mutations in AML remain uncertain. MPL mutations are identified in <5% of MDS patients and are often identified in combination with SF3B1 in MDS/MPN with ring sideroblasts and thrombocytosis (NCCN Guidelines - MDS 2023). Activating MPL mutations are identified in 5-8% of PMF patients and 1-4% of ET patients and are a major diagnostic criterion for these diseases (NCCN Guidelines - MPN 2023). 
+NF1	chr17	32358372	31377677	plus					Expanded	Yes	Yes	LOF	"AML, MDS, MPN"	3A	NF1 mutations are identified in ~5% of AML cases. The predictive and prognostic significance of NF1 mutations in AML remain uncertain. NF1 mutations are identified in ~5% of MDS cases. The predictive and prognostic significance of NF1 mutations in MDS remain uncertain. NF1 mutations are identified in ~5% of MPN cases. The predictive and prognostic significance of NF1 mutations in MPN remain uncertain. 
+NRAS	chr1	32358373	114716771	minus					Core	Yes	Yes	GOF	"AML, MDS, MPN"	"1B for MDS and MPN, 3A for adult AML"	"NRAS mutations have been identified in 13-14% of AML patients. In adult AML, NRAS mutations have not been found to be a significant prognostic marker, however, they have been associated with an adverse prognosis in pediatric AML (Liu (2018) PMID:30194935). RAS mutations have been identified in 5-10% of MDS patients, with a higher frequency in CMML and JMML patients (~15%). In MDS, RAS mutations are associated with an inferior outcome (NCCN Guidelines - MDS 2023).  . NRAS mutations have been identified in 6% of MPN cases. In MF, RAS mutations have been associated with inferior outcomes (Santos (2020) PMID: 31628430).  "
+PAX5	chr9	32358374	37034268	minus		"Acute lymphoblastic leukemia with germline predisposition* ; Acute lymphoblastic leukemia with germline PAX5 mutation, (ICC, PMID: 35767897)."			Expanded	Yes	Yes	LOF		1A	
+PTPN11	chr12	32358375	112509918	plus					Core	Yes	Yes	GOF	"AML, MDS, MPN"	"1B for MDS and AML, 3A for MPN"	"PTPN11 mutations are identified in ~5% of AML cases (Hou (2008) PMID: 1797295).  In AML, PTPN11 mutations have been associated with a poor prognosis (Alfayez (2020) PMID: 32561839).  Although PTPN11 mutations are rare in adult MDS, they are identified in ~10% of pediatric MDS and in ~34% of non-syndromic JMML (Tartaglia (2003) PMID: 12717436). PTPN11 mutation have been correlated with poorer overall survival, however, PTPN11 status should not be used to determine the effectiveness of hypomethylating agents (NCCN Guidelines - MDS 2022).  Although PTPN11 mutations are rare in MPN, they are identified in ~34% of non-syndromic JMML (Tartaglia (2003) PMID: 12717436). The predictive and prognostic significance of PTPN11 mutations in MPN remain uncertain.  "
+SETBP1	chr18	32358376	45068510	plus					Expanded	Yes	Yes	GOF		3A	
+TERT	chr5	32358377	1295068	minus					Expanded	Yes	Yes	LOF	MDS	"1A for MDS, 3A for AML"	Somatic TERT variants are identified in ~1% of myeloid malignancies and are the cause autosomal dominant dyskeratosis congenita when identified in the germline (Basel-Vanagaite (2008) PMID:18460650). A referral to the BCCA Hereditary Cancer Program may be warranted (http://www.screeningbc.ca/Hereditary/).
+BCR	chr22	32358378	23318037	plus	"Acute myeloid leukaemia with defining genetic abnormalities; acute myeloid leukaemia with BCR::ABL1 fusion. , (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with t(9;22)(q34.1;q11.2)/BCR::ABL1§ ? 20%. Classification of B-ALL; B-ALLwith t(9;22)(q34.1;q11.2)/BCR::ABL1, B-ALL, BCR::ABL1–like, ABL-1 class rearranged, B-ALL, BCR::ABL1–like, JAK-STAT activated, B-ALL, BCR::ABL1–like, NOS, (ICC, PMID: 35767897)."	ABL1		No	Yes	Yes	FUS	AML	"1A if fused with ABL1, otherwise 3A"	Optical Genome Mapping detected a translocation t(9;22)(q34.1;q11.2) with a variant allele frequency (VAF) of [%].  The t(9;22)(q34.1;q11.2) is a recurrent abnormality resulting in a BCR::ABL1 fusion.  In the context of AML it is considered to have an adverse  prognosis according to the ELN 2022 (PMID: 35797463).
+CBFB	chr16	32358379	67101058	plus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with CBFB::MYH11 fusion., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22)/CBFB::MYH11 ? 10%., (ICC, PMID: 35767897)."			No	Yes	Yes	FUS	AML	"1A if fused with MYH11, otherwise 3A"	"Optical Genome Mapping detected a translocation inv(16)(p13.1q22) or t(16;16)(p13.1;q22) which is a recurrent abnormality resulting in a CBFB::MYH11 fusion. In the context of AML it is considered to have a favourable favorable prognosis mainly based on results observed in intensively treated patients. Initial risk assignment may change during the treatment course based on the results from analyses of measurable residual disease. Concurrent KIT and/or FLT3 gene mutation does not alter risk categorization (ELN, PMID: 35797463)"
+DEK	chr6	32358380	18264548	minus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with DEK::NUP214 fusion., (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with t(6;9)(p22.3;q34.1)/DEK::NUP214 ? 10%., (ICC, PMID: 35767897)."			No	Yes	Yes	FUS	AML	"1A if fused to NUP214, otherwise 3A"	Optical Genome Mapping detected a translocation t(6;9)(p22.3;q34.1) with a variant allele frequency (VAF) of [%].   The t(6;9)(p22.3;q34.1) is a recurrent abnormality resulting in a DEK::NUP214 fusion.  In the context of AML it is considered to have a adverse favorable prognosis according to the ELN 2022 (PMID: 35797463).
+EGR1	chr5	32358381	138469303	plus					No	Yes	Yes	LOF		2	
+HRAS	chr11	32358382	535576	minus					Core	No	Yes	LOF		3A	Mutations in HRAS are extremely rare in myeloid leukemia (PMID: 19075190)
+JAK3	chr19	32358383	17847982	minus					No	Yes	Yes	GOF		2	
+MLLT10	chr10	32358384	21743630	plus			"KMT2A, PICALM"		No	Yes	Yes	FUS	AML	"1A if fused to KMT2A or PICALM, otherwise 3A"	"Optical Genome Mapping detected a translocation t(10;11)(p12.3;q23.3) or t(10;11)(p12.3;q14.2) with a variant allele frequency (VAF) of [%].   The t(10;11)(p12.3;q23.3) is a recurrent abnormality resulting in a MLLT10::KMT2A fusion.  The t(10;11)(p12.3;q14.2) is a rare, recurrent abnormality resulting in a PICALM::MLLT10  fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). In the context of AML, MLLT10::KMT2A fusion is considered to have a adverse favorable prognosis according to the ELN 2022, the PICALM::MLLT10 fusion has an unclear prognosis due to its rarity (PMID: 35797463)."
+MLLT3	chr9	32358385	20622499	minus		"Classification of AML with percentage of blasts required for diagnosis; AML with t(9;11)(p21.3;q23.3)/MLLT3::KMT2A ? 10%, (ICC, PMID: 35767897)."	KMT2A		No	Yes	Yes	FUS	AML	"1A if fused to KMT2A, otherwise 3A"	"Optical Genome Mapping detected a t(9;11)(p21.3;q23.3)/MLLT3::KMT2A associated with interemediate risk category in the context of AML based on results observed in intensively treated patients. Initial risk assignment may change during the treatment course based on the results from analyses of measurable residual disease. The presence of t(9;11)(p21.3;q23.3) takes precedence over rare, concurrent adverserisk gene mutations. (ELN, PMID: 35797463)"
+MYC	chr8	32358386	127742951	plus		"Classification of B-ALL ;B-ALL with MYC rearrangement, (ICC, PMID: 35767897)."	"IGH, MECOM"		No	Yes	Yes	LOF/GOF		1A	"Optical Genome Mapping detected a t(3;8)(q26.2;q24.2). This is a recurrent abnormality resulting in a MYC::MECOM fusion associated with adverse risk category in AML (ELN, PMID: 35797463)"
+MYH11	chr16	32358387	15857028	minus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with CBFB::MYH11 fusion, (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22)/CBFB::MYH11 ? 10%, (ICC, PMID: 35767897)."			No	Yes	Yes	FUS	AML	1A	"Optical Genome Mapping detected a translocation inv(16)(p13.1q22) or t(16;16)(p13.1;q22) which is a recurrent abnormality resulting in a CBFB::MYH11 fusion. In the context of AML it is considered to have a favourable favorable prognosis mainly based on results observed in intensively treated patients. Initial risk assignment may change during the treatment course based on the results from analyses of measurable residual disease. Concurrent KIT and/or FLT3 gene mutation does not alter risk categorization (ELN, PMID: 35797463)"
+NOTCH1	chr9	32358388	136546048	minus					No	Yes	Yes	LOF		2	
+NUP214	chr9	32358389	131234663	plus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with DEK::NUP214 fusion, (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with t(6;9)(p22.3;q34.1)/DEK::NUP214 ? 10%, (ICC, PMID: 35767897)."			No	Yes	Yes	FUS	AML	1A	Optical Genome Mapping detected a translocation t(6;9)(p22.3;q34.1) with a variant allele frequency (VAF) of [%].   The t(6;9)(p22.3;q34.1) is a recurrent abnormality resulting in a DEK::NUP214 fusion.  In the context of AML it is considered to have a adverse prognosis according to the ELN 2022 (PMID: 35797463).
+PDGFRB	chr5	32358390	150155872	minus		"Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions; Myeloid/lymphoid neoplasm with PDGFRB rearrangement, (ICC, PMID: 35767897)."	t(5;12)(q32;p13.2)/ ETV6::PDGFRB	">30 partners (ETV6, PDE4DIP, TPM3, SPTBN1, GOLGA4, WDR48, GOLGB1, PRKG2, CD74, TNIP1, HECW1, HIP1, KANK1, CCDC6, CAPRIN1, ERC1, BIN2, SART3, GIT2, NIN, CCDC88C, TRIP11, TP53BP1, NDE1, RABEP1, MPRIP, SPECC1, MYO18A, COL1A1, DTD1, ZMYND8)"	No	Yes	Yes	FUS/GOF		1A	Optical Genome Mapping detected a _______ translocation resulting in a ______::PDGFRB fusion gene with a variant allele frequency of [].  The ____::PDGFRB fusion is a recurrent rearrangement seen in myeloid and lymphoid neoplasia with eosinophilia and will likely respond well to tyrosine kinase inhibitors (PMID: 35767897).
+PML	chr15	32358391	74047827	plus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute promyelocytic leukaemia with PML::RARA fusion, (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; Acute promyelocytic leukemia (APL) with t(15;17)(q24.1;q21.2)/PML::RARA ? 10%, (ICC, PMID: 35767897)."			No	Yes	Yes	FUS/GOF	APL	1A	"Optical Genome Mapping detected a translocation t(15;17)(q24;q21) with a variant allele frequency (VAF) of [%].   The t(15;17) is a recurrent abnormality fusing the PML and RARA genes (canonical fusion).  In the context of AML it is considered to have a favorable prognosis according to the ELN 2022. (PMID: 35797463).
+
+"
+PPM1D	chr17	32358392	60666280	plus					Expanded	Yes	Yes	LOF		3A	
+RARA	chr17	32358393	40357643	plus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute promyelocytic leukaemia with PML::RARA fusion, (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; Acute promyelocytic leukemia (APL) with t(15;17)(q24.1;q21.2)/PML::RARA ? 10%; APL with other RARA rearrangements* ? 10%, (ICC, PMID: 35767897)."	"PML, BCOR, FIP1L1, TBL1XRA, STAT3, STAT5B, ZBTB16, NPM1, IRF2BP2"		No	Yes	Yes	FUS/GOF	"APL, AML"	1A	"Optical Genome Mapping detected a translocation t(15;17)(q24;q21) or t(5;17)(q35.1;q21.2) with a variant allele frequency (VAF) of [%].   The t(15;17) is a recurrent abnormality fusing the PML and RARA genes (canonical fusion) or forming a NPM1::RARA fusion.  In the context of AML, PML::RARA is considered to have a favorable prognosis and NPM1::RARA prognosis is unclear according to the ELN 2022. The NPM1::RARA, ZBTB16::RARA, STAT5B::RARA, STAT3::RARA, TBL1XR1::RARA, FIP1L1::RARA, BCOR::RARA fusions are rare, atypical, but recurrent variant RARA translocations (PMID: 35797463).
+
+"
+RB1	chr13	32358394	48481890	plus					No	Yes	Yes	LOF		2	
+RBM15	chr1	32358395	110346681	plus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with RBM15::MRTFA fusion, (WHO, PMID: 35732831)."		MRTF1		No	Yes	Yes	FUS		1A	"Optical Genome Mapping detected a translocation t(1;22)(p13.3;q13.1) with a variant allele frequency (VAF) of [%].   The t(1;22)(p13.3;q13.1) is a rare, recurrent abnormality resulting in a RBM15::MRTF1 fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear."
+RUNX1T1	chr8	32358396	92103286	minus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with RUNX1::RUNX1T1 fusion, (WHO, PMID: 35732831)."	"Classification of AML with percentage of blasts required for diagnosis; AML with t(8;21)(q22;q22.1)/RUNX1::RUNX1T1 ? 10%; Defined by mutations in ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, or ZRSR2, (ICC, PMID: 35767897)."			No	Yes	Yes	GOF	AML	1A	"Optical Genome Mapping detected a translocation t(8;21)(q22;q22.1) with a variant allele frequency (VAF) of [%].  The t(8;21)(q22;q22.1) is a recurrent abnormality resulting in a RUNX1::RUNX1T1 fusion.  In the context of AML it is considered to have a favourable favorable prognosis mainly based on results observed in intensively treated patients. Initial risk assignment may change during the treatment course based on the results from analyses of measurable residual disease. Concurrent KIT and/or FLT3 gene mutation does not alter risk categorization. Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2 associated with adverse risk category (ELN, PMID: 35797463)"
+SF1	chr11	32358397	64778844	minus					Core	No	Yes	LOF		3A	
+SH2B3	chr12	32358398	111451623	plus					Core	Yes	Yes	LOF	"AML, MDS, MPN"	"1B for MPN, 3A for MDS, AML"	"SH2B3 mutations are associated with inferior overall survival, for MF-free survival, and in patients with ET (NCCN Guidelines - MPN 2022). Mutations in SH2B3 have been identified in <1% of MDS patients.  The predictive and prognostic significance of SH2B3 in MDS remain uncertain. Mutations in SH2B3 are rarely identified in AML patients. The predictive and prognostic significance of SH2B3 in AML remain uncertain."
+SMC1A	chrX	32358399	53422728	minus					Core	No	Yes	LOF	AML	3A	SMC1A mutations have been found in ~2% of AML patients (Metzeler (2016) PMID:27288520 ). Cohesin complex gene mutations have no clear prognostic impact in AML patients (Yi (2017) PMID:28924389; Thol (2014) PMID:24335498).
+SMC3	chr10	32358400	110604634	plus					Core	No	Yes	LOF	"AML, MDS"	3A	SMC3 mutations are rare in AML cases. The predictive and prognostic significance of SMC3 mutations in AML remain uncertain but may depend on the presence of other cooperating mutations (Cuartero (2019) PMID: 31552185; Mazumdar (2017) PMID: 27796738). MC3 mutations are rare in MDS cases. The predictive and prognostic significance of SMC3 mutations in MDS remain uncertain and may depend on the presence of other cooperating mutations (Fisher (2017) PMID: 28626802).
+TERC	chr3	32358401	169765060	minus					Expanded	Yes	No	LOF	Myeloid	1A	"TERC variants are rarely identified as a somatic change in myeloid malignancies. As a germline change, TERC mutations are the cause autosomal dominant dyskeratosis congenita (Savage (2009) PMID:20301779). A referral to the BCCA Hereditary Cancer Program may be warranted (http://www.screeningbc.ca/Hereditary/)."
+TET1	chr10	32358402	68694487	plus					No	Yes	Yes	FUS	AML	"1A if fused with KMT2A, otherwise 3A"	Optical Genome Mapping detected a translocation t(10;11)(q21.3;q23.3) with a variant allele frequency (VAF) of [%].   The t(10;11)(q21.3;q23.3) is a recurrent abnormality resulting in a TET1::KMT2A fusion.  In the context of AML it is considered to have a adverse favorable prognosis according to the ELN 2022 (PMID: 35797463).
+ABL2	chr1	32358403	179229677	minus					Expanded	Yes	No	FUS		2	
+ANKRD26	chr10	32358404	27100494	minus	"Myeloid neoplasms with germline predisposition and pre-existing platelet disorder, (WHO, PMID: 35732831)."	"Myeloid neoplasms with germline ANKRD26 mutation, (ICC, PMID: 35767897)."			No	Yes	No	LOF		1A	
+BCL11B	chr14	32358405	99272197	minus	"Classification of T-ALL, (WHO, PMID: 35732831)."	"Early T-cell precursor ALLwith BCL11B rearrangement, (ICC, PMID: 35767897)."			No	Yes	No	FUS/GOF		1A	
+CNTRL	chr9	32358406	121177610	plus					No	Yes	Yes	FUS		2	
+CREBBP	chr16	32358407	3880713	minus					No	Yes	Yes	FUS		"1A if fused to KAT6A, otherwise 3A"	"Optical Genome Mapping detected a translocation t(8;16)(p11.2;p13.3) with a variant allele frequency (VAF) of [%].   The t(8;16)(p11.2;p13.3) is a rare, recurrent abnormality resulting in a KAT6A::CREBBP fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). KAT6A::CREBBP associated with adverse risk category (ELN, PMID: 35797463)."
+CTNNA1	chr5	32358408	138935034	plus					No	Yes	Yes	LOF		2	
+DKC1	chrX	32358409	154777689	plus					Expanded	No	Yes	LOF		3A	"DKC1 is used to identify telomere biology disorders (TBD) patients by affecting telomere structural integrity and maintenance specifically (PMID: 35524933). DKC1 serves as a potential prognostic biomarker for human clear cell renal cell carcinoma and promotes its proliferation, migration and invasion via the NF??B pathway. (PMID: 29901172)"
+EP300	chr22	32358410	41180077	plus					No	Yes	Yes	FUS		2	
+FBXW7	chr4	32358411	152535033	minus					No	Yes	No	LOF		2	
+FIP1L1	chr4	32358412	53460862	plus					No	Yes	Yes	FUS		2	
+GNAS	chr20	32358413	58911192	plus					No	Yes	No	LOF		2	
+HIP1	chr7	32358414	75738941	minus					No	Yes	Yes	FUS		2	
+HLF	chr17	32358415	55325187	plus		"Classification of B-ALL; B-ALL with HLF rearrangement, (ICC, PMID: 35767897)."	TCF3; TCF4		No	Yes	No	LOF		1A	Very poor
+JAK1	chr1	32358416	65067746	minus					No	Yes	Yes	GOF		2	
+KAT6A	chr8	32358417	42051987	minus					No	Yes	Yes	FUS		"1A if fused to CREBBP, otherwise 3A"	"Optical Genome Mapping detected a translocation t(8;16)(p11.2;p13.3) with a variant allele frequency (VAF) of [%].   The t(8;16)(p11.2;p13.3) is a rare, recurrent abnormality resulting in a KAT6A::CREBBP fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). KAT6A::CREBBP associated with adverse risk category (ELN, PMID: 35797463)."
+MEF2D	chr1	32358418	156500779	minus	"Classification of B-ALL , (WHO, PMID: 35732831)."	"B-ALL with MEF2D rearrangement, (ICC, PMID: 35767897)."	"BCL9, HNRNPUL1 "		No	Yes	No	FUS/GOF		1A	Poor 
+MLF1	chr3	32358419	158606456	plus					No	Yes	Yes	FUS		"1A if fused to NPM1, otherwise 3A"	"Optical Genome Mapping detected a translocation t(3;5)(q25.3;q35.1) with a variant allele frequency (VAF) of [%].  This is a rare, recurrent abnormality resulting in a NPM1::MLF1 fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (ICC, PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear. "
+MLLT1	chr19	32358420	6279975	minus			KMT2A		No	Yes	Yes	FUS	AML	"1A if fused to KMT2A, otherwise 3A"	Optical Genome Mapping detected a translocation t(11;19)(q23.3;p13.3) with a variant allele frequency (VAF) of [%].   The t(11;19)(q23.3;p13.3) is a recurrent abnormality resulting in a MLLT1::KMT2A fusion.  In the context of AML it is considered to have a adverse favorable prognosis according to the ELN 2022 (PMID: 35797463).
+MRTFA	chr22	32358421	40636719	minus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with RBM15::MRTFA fusion, (WHO, PMID: 35732831)."				No	Yes	No	FUS		1A	
+MYB	chr6	32358422	135219172	plus					No	Yes	Yes	FUS		2	
+MYD88	chr3	32358423	38143022	plus					No	Yes	No	GOF		2	
+NIN	chr14	32358424	50831162	minus					No	Yes	Yes	FUS		2	
+NSD1	chr5	32358425	177300213	plus			NUP98		No	Yes	Yes	FUS		"1A if fused to NUP98, otherwise 3A"	"Optical Genome Mapping detected a translocation t(5;11)(q35.2;p15.4) with a variant allele frequency (VAF) of [%].   The t(5;11)(q35.2;p15.4) is a rare, recurrent abnormality resulting in a NUP98::NSD1 fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear."
+NUTM1	chr15	32358426	34357737	plus		"Classification of B-ALL; B-ALL with NUTM1 rearrangement, (ICC, PMID: 35767897)."	"ACIN1, ZNF618, BRD9, IKZF1, CUX1"		No	Yes	No	FUS/GOF		2	Good
+PBX1	chr1	32358427	164899296	plus		"B-ALL with t(1;19)(q23.3;p13.3)/TCF3::PBX1, (ICC, PMID: 35767897)."			No	Yes	No	FUS		"1A if fused with TCF3, otherwise 3A"	
+PCM1	chr8	32358428	18029948	plus					No	Yes	Yes	FUS		2	
+PDE4DIP	chr1	32358429	149033016	plus					No	Yes	Yes	FUS		2	
+PICALM	chr11	32358430	86069084	minus			MLLT10		No	Yes	Yes	FUS		"1A if fused with MLLT10, otherwise 3A"	"Optical Genome Mapping detected a translocation t(10;11)(p12.3;q14.2) with a variant allele frequency (VAF) of [%].   The t(10;11)(p12.3;q14.2) is a rare, recurrent abnormality resulting in a PICALM::MLLT10  fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear."
+PIGA	chrX	32358431	15335554	minus					Core	No	Yes	LOF	MDS	2	Pathogenic variants in PIGA alter GPI anchor biosynthesis and are associated with paroxysmal nocturnal hemoglobinura (PNH) (Lee (2014) PMID:25244089; Mortazavi (2000) PMID:10627475; Araten (1999) PMID:10220445; Takeda (1993) PMID:8500164).
+PRDM16	chr1	32358432	3438621	plus					No	Yes	Yes	FUS		"1A if fused with RPN1, otherwise, 3A"	"Optical Genome Mapping detected a translocation t(1;3)(p36.3;q21.3) with a variant allele frequency (VAF) of [%].   The t(1;3)(p36.3;q21.3) is a rare, recurrent abnormality resulting in a PRDM16::RPN1 fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear."
+PRPF40B	chr12	32358433	49644669	plus					Core	No	Yes	LOF		3A	
+PRPF8	chr17	32358434	1684867	minus					No	Yes	Yes	LOF		2	
+PTEN	chr10	32358435	87971930	plus					Core	No	No	LOF	AML	3A	PTEN mutations are rare in AML cases. The predictive and prognostic significance of PTEN mutations in AML remain uncertain. 
+RABEP1	chr17	32358436	5386340	plus					No	Yes	Yes	FUS		2	
+RPN1	chr3	32358437	128650818	minus					No	Yes	Yes	FUS		"1A if fused with PRDM16, otherwise 3A"	"Optical Genome Mapping detected a translocation t(1;3)(p36.3;q21.3) with a variant allele frequency (VAF) of [%].   The t(1;3)(p36.3;q21.3) is a rare, recurrent abnormality resulting in a PRDM16::RPN1 fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear."
+RTEL1	chr20	32358438	63696253	plus					Expanded	No	No	LOF	MDS	1B	"Heterozygous RTEL variants have been associated with aplastic anemia, unexplained cytopenias and hypoplastic MDS (Marsh (2018) PMID:29344583). As a hereditary change, loss-of-function mutations in RTEL are associated with short telomere syndromes (NCCN Guideline - MDS 2023). A referral to the BCCA Hereditary Cancer Program may be warranted (http://www.screeningbc.ca/Hereditary/). This missense variant in RTEL has not been biochemically characterized in the literature but has been associated with a short telomere syndrome (REF). Heterozygous RTEL variants have been associated with aplastic anemia, unexplained cytopenias and hypoplastic MDS (Marsh (2018) PMID:29344583). As a hereditary change, loss-of-function mutations in RTEL are associated with short telomere syndromes (NCCN Guideline - MDS 2023). A referral to the BCCA Hereditary Cancer Program may be warranted (http://www.screeningbc.ca/Hereditary/)."
+SAMD9	chr7	32358439	93118023	minus		"Hematologic neoplasms with germline predisposition associated with a constitutional disorder affecting multiple organ systems; Myeloid neoplasms with germline SAMD9 mutation, (ICC, PMID: 35767897)."			Expanded	No	No	LOF		1A	
+SBDS	chr7	32358440	66995586	minus					Expanded	No	Yes	LOF		3A	
+SETD2	chr3	32358441	47164113	minus					Core	No	No	LOF	"AML, MDS"	3A	SETD2 mutations are identified in approximately 6% of AML cases. The predictive and prognostic significance of SETD2 mutations in AML remain uncertain. SETD2 mutations are rarely identified in MDS cases. The predictive and prognostic significance of SETD2 mutations in MDS remain uncertain.
+SF3A1	chr22	32358442	30356894	minus					Core	No	Yes	LOF		3A	
+SOCS3	chr17	32358443	78360079	minus					Core	No	Yes	LOF		3A	
+TCF3	chr19	32358444	1652615	minus		"Classification of B-ALL; B-ALL with t(1;19)(q23.3;p13.3)/TCF3::PBX1, (ICC, PMID: 35767897)."			No	Yes	No	FUS		"1A if fused with PBX1, otherwise 3A"	
+U2AF2	chr19	32358445	55674716	plus					Core	No	Yes	LOF	"AML, MDS, MPN"	1B	"U2AF1 variants have been identified in ~4% of AML patients (cBioPortal, TCGA dataset) wherein they are associated with inferior outcomes. The present identification of a U2AF1 mutation also supports a diagnosis of AML-MR (ELN Guidelines - AML 2022, NCCN Guidelines - AML 2023). U2AF1 mutations are observed in 8-12% of MDS cases where have been associated with inferior outcomes (NCCN Guidelines - MDS 2023). U2AF1 mutations are more common in patients with MF compared to those with ET and are generally not found in patients with PV (Delic (2016) PMID:27447873). In MPN, U2AF1 mutations are associated with an inferior outcome (NCCN Guidelines - MPN 2023).  "
+ZMYM2	chr13	32358446	20089115	plus					No	Yes	Yes	FUS		2	
+ZNF384	chr12	32358447	6689572	minus		"Classification of B-ALL; B-ALL with ZNF384(362) rearrangement; Provisional entity: B-ALL, ZNF384 rearranged-like, (ICC, PMID: 35767897)."	"EP300 (most common and good prognosis), TCF3, TAF15, CREBBP"		No	Yes	No	FUS/GOF		1A	Variable
+-13 or del(13q)	chr13	32358448	114364328		"Defining cytogenetic abnormalities in acute myeloid leukaemia, myelodysplasia-related.; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."				No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	
+-7 or del(7q)	chr7	32358449	159345973		"Defining cytogenetic abnormalities in acute myeloid leukaemia, myelodysplasia-related.; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."				No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Optical Genome Mapping detected a deletion 7q or monosomy 7 in [%] of the sample. In the context of a diagnosis of AML, deletion 7q is associated with an intermediate prognosis, monosomy 7 is associated with an adverse prognosis (PMID:35797463)"
+ACSL6	chr5	32358450	132012086						No	No	Yes	LOF		2	
+ADRB2	chr5	32358451	148828687						No	No	Yes	LOF		2	
+AEBP2	chr12	32358452	19522239						No	No	Yes	LOF		2	
+AFDN	chr6	32358453	167972023	plus					No	Yes	No	FUS	AML	"1A if fused to KMT2A, otherwise 3A"	Optical Genome Mapping detected a translocation t(6;11)(q27;q23.3) with a variant allele frequency (VAF) of [%].   The t(6;11)(q27;q23.3) is a recurrent abnormality resulting in a AFDN::KMT2A fusion.  In the context of AML it is considered to have a adverse prognosis according to the ELN 2022 (PMID: 35797463).
+AFF1	chr4	32358454	87141039	plus					No	Yes	No	FUS	AML	"1A if fused to KMT2A, otherwise 3A"	Optical Genome Mapping detected a translocation t(4;11)(q21.3;q23.3) with a variant allele frequency (VAF) of [%].   The t(4;11)(q21.3;q23.3) is a recurrent abnormality resulting in a AFF1::KMT2A fusion.  In the context of AML it is considered to have an adverse prognosis according to the ELN 2022 (PMID: 35797463).
+ALAS2	chrX	32358455	55030977	minus					Expanded	No	No	LOF		2	
+ALK	chr2	32358456	29921586	minus					No	Yes	No	FUS		2	
+APC	chr5	32358457	112846239						No	No	Yes	LOF		2	
+AR	chrX	32358458	67730619						No	No	Yes	LOF		2	
+ARHGAP26	chr5	32358459	143229011						No	No	Yes	LOF		2	
+ARNT	chr1	32358460	150876768						No	No	Yes	LOF		2	
+ASXL2	chr2	32358461	25878516						No	No	Yes	LOF		2	
+ATG2B	chr14	32358462	96363341	minus					No	Yes	No	LOF		2	
+ATR	chr3	32358463	142578733	minus					Expanded	No	No	LOF		2	
+BAALC	chr8	32358464	103230305						No	No	Yes	LOF		2	
+BIN2	chr12	32358465	51324174	minus					No	Yes	No	FUS		2	
+BLM	chr15	32358466	90816166	plus	"Subtypes of myeloid neoplasms associated with germline predisposition, Myeloid neoplasms with germline predisposition and potential organ dysfunction, (WHO, PMID: 35732831)."				No	No	No	LOF		1A	
+BRINP3	chr1	32358467	190477882						No	No	Yes	LOF		2	
+CBFA2T3	chr16	32358468	88977207	minus					No	Yes	No	FUS		"1A if fused to RUNX1 or GLIS2, otherwise 3A"	"Optical Genome Mapping detected a translocation t(16;21)(q24.3;q22.1) or  inv(16)(p13.3q24.3) with a variant allele frequency (VAF) of [%].   This is a rare, recurrent abnormality resulting in a RUNX1::CBFA2T3 or CBFA2T3::GLIS2  fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear."
+CCDC6	chr10	32358469	59906656						No	No	Yes	LOF		2	
+CDK5RAP2	chr9	32358470	120580167	minus					No	Yes	No	FUS		2	
+CDKN1B	chr12	32358471	12722382						No	No	Yes	LOF		2	
+CDX2	chr13	32358472	27969315	minus					No	Yes	No	FUS		2	
+CHEK2	chr22	32358473	28741834	minus					Expanded	No	No	LOF		3A	"CHEK2 was identified as the most frequent germline mutated gene in a cohort of 391 adult patients with AML. However, more data is warranted to clarify the role of germline CHEK2 mutations in the development of myeloid malignancies (Freiman et al. 2022)"
+CHIC2	chr4	32358474	54064690						No	No	Yes	LOF		2	
+Complex KT	Complex KT	32358475							No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	In the context of AML the presence of a complex genome (i.e. karyotype) in associated with an adverse prognosis (PMID:  35797463).
+CRLF2	chrY	32358476	1198437						No	No	Yes	LOF		2	
+CRLF2	chrX	32358477	1198272						No	No	Yes	LOF		2	
+CRLF2	chrX	32358478	1198240						No	No	Yes	LOF		2	
+CRLF2	chrX	32358479	1198272						No	No	Yes	LOF		2	
+CRLF2	chrY	32358480	1198396						No	No	Yes	LOF		2	
+CRLF2_chrX	chrX	32358481	1212649	minus					No	Yes	No	FUS		2	
+CRLF2_chrY	chrY	32358482	1212649	minus					No	Yes	No	FUS		2	
+CSF1R	chr5	32358483	150113372						No	No	Yes	LOF		2	
+CSMD2	chr1	32358484	34165842						No	No	Yes	LOF		2	
+CSNK1A1	chr5	32358485	149551552						No	No	Yes	LOF		2	
+del(11q)	chr11	32358486	135086622		"Defining cytogenetic abnormalities in acute myeloid leukaemia, myelodysplasia-related.; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."				No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	
+del(12p)	chr12	32358487	35500000		"Defining cytogenetic abnormalities in acute myeloid leukaemia, myelodysplasia-related.; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."				No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Optical Genome Mapping detected a deletion 12p overlapping the region with the ETV6 gene, in [%] of the sample."
+del(17p)	chr17	32358488	25100000		"Defining cytogenetic abnormalities in acute myeloid leukaemia, myelodysplasia-related.; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."				No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Optical Genome Mapping detected a deletion 17p overlapping the region with the TP53 gene, in [%] of the sample.  Deletion of TP53 is often seen in complex karyotypes and is associatd with a  poor prognosis (PMID: 35797463)."
+del(5q) or -5	chr5	32358489	181538259		"Classification and defining features of myelodysplastic neoplasms (MDS).; MDS with low blasts and isolated 5q deletion (MDS-5q). Premalignant clonal cytopenias and myelodysplastic syndromes; Myelodysplastic syndrome with del(5q) (WHO, PMID: 35732831)."				No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Optical Genome Mapping detected a deletion 5q or monosomy 5 in [%] of the sample. In the context of a diagnosis of AML, this is associated with an adverse prognosis (PMID:35797463)"
+Deletion 20q	chr20	32358490	30400000						No	No	No	Structural aberration		1A	
+DHX15	chr4	32358491	24584561						No	No	Yes	LOF		2	
+DHX30	chr3	32358492	47850196						No	No	Yes	LOF		2	
+DIAPH1	chr5	32358493	141619055						No	No	Yes	LOF		2	
+DNMT1	chr19	32358494	10195135						No	No	Yes	LOF		2	
+EBF1	chr5	32358495	159099916	minus					No	Yes	No	FUS		2	
+EED	chr11	32358496	86278813						No	No	Yes	LOF		2	
+EGLN1	chr1	32358497	231425044						No	No	Yes	LOF		2	
+ELL	chr19	32358498	18522070	minus					No	Yes	No	FUS	AML	"1A if fused to KMT2A, otherwise 3A"	Optical Genome Mapping detected a translocation t(11;19)(q23.3;p13.1) with a variant allele frequency (VAF) of [%].   The t(11;19)(q23.3;p13.1) is a recurrent abnormality resulting in a ELL::KMT2A fusion.  In the context of AML it is considered to have a adverse favorable prognosis according to the ELN 2022 (PMID: 35797463).
+ENAH	chr1	32358499	225653143						No	No	Yes	LOF		2	
+EPOR	chr19	32358500	11384314	minus					No	Yes	No	FUS		2	
+ERCC2	chr19	32358501	45370618						No	No	Yes	LOF		2	
+ERCC6L2	chr9	32358502	96041092	plus					Expanded	No	No	LOF		2	"Biallelic germ line ERCC6L2 variants strongly predispose to bone marrow failure (BMF) and myeloid malignancies, characterized by somatic TP53-mutated clones and erythroid predominance. The prognosis of MDS/AML in patients with ERCC6L2 germline variants is poor, especially when progression to acute erythroid leukemia is noted (PMID: 37091189)."
+ERG	chr21	32358503	38498477	minus					No	Yes	No	FUS		"1A if fused to FUS, otherwise 3A"	"Optical Genome Mapping detected a translocation t(16;21)(p11.2;q22.2) with a variant allele frequency (VAF) of [%].   The t(16;21)(p11.2;q22.2) is a rare, recurrent abnormality resulting in a FUS::ERG fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear."
+ETFDH	chr4	32358504	158709623						No	No	Yes	LOF		2	
+ETNK1	chr12	32358505	22690665	plus					No	Yes	No	GOF		2	
+ETS2	chr21	32358506	38824954	plus					Expanded	No	No	LOF		2	High ETS2 expression predicts poor prognosis in acute myeloid leukemia patients undergoing allogeneic hematopoietic stem cell transplantation (PMID: 30022221).
+EWSR1	chr22	32358507	29300521	plus					No	Yes	No	FUS		2	
+FAT1	chr4	32358508	186723855						No	No	Yes	LOF		2	
+FAT4	chr4	32358509	125492932						No	No	Yes	LOF		2	
+FEV	chr2	32358510	218985184	minus					No	Yes	No	FUS		2	
+FGFR1OP	chr6	32358511	167052713						No	No	Yes	LOF		2	
+FHIT	chr3	32358512	61251461						No	No	Yes	LOF		2	
+FOXN3	chr14	32358513	89619150						No	No	Yes	LOF		2	
+FOXP1	chr3	32358514	71583989						No	No	Yes	LOF		2	
+FUS	chr16	32358515	31191605	plus					No	Yes	No	FUS		"1A if fused to ERG, otherwise 3A"	"Optical Genome Mapping detected a translocation t(16;21)(p11.2;q22.2) with a variant allele frequency (VAF) of [%].   The t(16;21)(p11.2;q22.2) is a rare, recurrent abnormality resulting in a FUS::ERG fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear."
+GIT2	chr12	32358516	109996368	minus					No	Yes	No	FUS		2	
+GLIS2	chr16	32358517	4339595	plus					No	Yes	No	FUS		"1A if fused to CBFA2T3, otherwise 3A"	"Optical Genome Mapping detected a translocation inv(16)(p13.3q24.3) with a variant allele frequency (VAF) of [%].   The inv(16)(p13.3q24.3) is a rare, recurrent abnormality resulting in a CBFA2T3::GLIS2 fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear."
+GNB1	chr1	32358518	1891087	minus					No	Yes	No	GOF		2	
+GOLGA4	chr3	32358519	37366879	plus					No	Yes	No	FUS		2	
+GRIA1	chr5	32358520	153813869						No	No	Yes	LOF		2	
+GSKIP	chr14	32358521	96387288	plus					No	Yes	No	LOF		2	
+GUCY1B3	chr4	32358522	155807642						No	No	Yes	LOF		2	
+HBS1L	chr6	32358523	135054898						No	No	Yes	LOF		2	
+HMGA2	chr12	32358524	65966295						No	No	Yes	LOF		2	
+HNRNPK	chr9	32358525	83980782						No	No	Yes	LOF		2	
+HOXA11	chr7	32358526	27185216						No	No	Yes	LOF		2	
+HOXD11	chr2	32358527	176109588						No	No	Yes	LOF		2	
+HOXD13	chr2	32358528	176095938						No	No	Yes	LOF		2	
+HSPA9	chr5	32358529	138575629						No	No	Yes	LOF		2	
+idic(X)(q13)	chrX	32358530	76800000		"Defining cytogenetic abnormalities in acute myeloid leukaemia, myelodysplasia-related.; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."				No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	Optical Genome Mapping detected a isodicentric chromosome Xq in [%] of the sample.  idic(Xq) is recurrent abnormality in the context of myeloid neoplasia and in the context of a diagnosis of AML and is associated with an intermediate prognosis (PMID: 35797463)
+inv(16)(p13.1q22)	chr16	32358531	74100000			"Classification of AML with percentage of blasts required for diagnosis; AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22)/CBFB::MYH11 ? 10% (ICC, PMID: 35767897)."			No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	
+inv(3)(q21.3q26.2)	chr3	32358532	171200000			"Classification of AML with percentage of blasts required for diagnosis; AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2)/GATA2; MECOM(EVI1) ? 10% (ICC, PMID: 35767897)."			No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	
+IRF1	chr5	32358533	132490773	minus					No	Yes	No	LOF		2	
+Iso(17q)	chr17	32358534	83257441		"Defining cytogenetic abnormalities in acute myeloid leukaemia, myelodysplasia-related.; Cytogenetic and molecular abnormalities defining acute myeloid leukaemia, myelodysplasia-related., (WHO, PMID: 35732831)."				No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	Optical Genome Mapping detected a loss of chromosome material on chromosome 17p with a concomitant copy number gain on chromosome 17q.  This pattern is consisent with an isochromosome 17q with in [%] of the sample.  Note that a 17p copy number reducation is consistent with loss of a TP53 allele. 
+JARID2	chr6	32358535	15522042						No	No	Yes	LOF		2	
+KANK1	chr9	32358536	746103	plus					No	Yes	No	FUS		2	
+KIF5B	chr10	32358537	32056425	minus					No	Yes	No	FUS		2	
+KMT2C	chr7	32358538	152436005						No	No	Yes	LOF		2	
+KMT2E	chr7	32358539	105114085						No	No	Yes	LOF		2	
+L3MBTL1	chr20	32358540	43541895						No	No	Yes	LOF		2	
+LAMB1	chr7	32358541	108003359						No	No	Yes	LOF		2	
+LINC00982	chr1	32358542	3067725						No	No	Yes	LOF		2	
+LLGL2	chr17	32358543	75575209						No	No	Yes	LOF		2	
+LUC7L2	chr7	32358544	139423457						No	No	Yes	LOF		2	
+MAL	chr2	32358545	95053996						No	No	Yes	LOF		2	
+MAP2K1	chr15	32358546	66492312						No	No	Yes	LOF		2	
+MDS2	chr1	32358547	23640568						No	No	Yes	LOF		2	
+MGA	chr15	32358548	41769943						No	No	Yes	LOF		2	
+MKL1	chr22	32358549	40636719						No	No	Yes	LOF		2	
+MLLT11	chr1	32358550	151068497						No	No	Yes	LOF		2	
+MLLT4	chr6	32358551	167972023						No	No	Yes	LOF		2	
+monosomy 17	chr17	32358552	83257441						No	No	No	Structural aberration		1A	Optical Genome Mapping detected a monosomy 17 in [%] of the sample.  Monosomy of chromosome 17 is often seen in complex karyotypes and is associatd with a  poor prognosis (PMID: 35797463).
+MSI2	chr17	32358553	57684689						No	No	Yes	LOF		2	
+MYBL2	chr20	32358554	43716496						No	No	Yes	LOF		2	
+MYO18A	chr17	32358555	29180412						No	No	Yes	LOF		2	
+MYSM1	chr1	32358556	58700062	minus					Expanded	No	No	LOF		3A	
+NFE2	chr12	32358557	54295758	minus					No	Yes	No	GOF		2	
+NR3C1	chr5	32358558	143435512						No	No	Yes	LOF		2	
+NTRK3	chr15	32358559	88256739	minus					No	Yes	No	FUS		2	
+NUP98 	chr11	32358560	3797792	minus	"Acute myeloid leukaemia with defining genetic abnormalities; Acute myeloid leukaemia with NUP98 rearrangement, (WHO, PMID: 35732831)."		"NSD1, KMD5A"		No	No	No	FUS/GOF		1A	"Optical Genome Mapping detected a translocation t(11;12)(p15.4;p13.3), t(5;11)(q35.2;p15.4), or t(11;v)(p15.4;v) with a variant allele frequency (VAF) of [%].   This is a rare, recurrent abnormality resulting in a NUP98::KMD5A or NUP98::NSD1 or NUP98::v fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear. "
+P2RY8	chrX	32358561	1537144						No	No	Yes	LOF		2	
+P2RY8	chrY	32358562	1537144						No	No	Yes	LOF		2	
+P2RY8	chrY	32358563	1537144						No	No	Yes	LOF		2	
+P2RY8_chrX	chrX	32358564	1537185	minus					No	Yes	No	FUS		2	
+P2RY8_chrY	chrY	32358565	1537185	minus					No	Yes	No	FUS		2	
+PER1	chr17	32358566	8156360						No	No	Yes	LOF		2	
+PRKG1	chr10	32358567	52298350						No	No	Yes	LOF		2	
+PRKG2	chr4	32358568	81215222	minus					No	Yes	No	FUS		2	
+PTPRT	chr20	32358569	43189970						No	No	Yes	LOF		2	
+RBBP6	chr16	32358570	24572863						No	No	Yes	LOF		2	
+RBM22	chr5	32358571	150701107						No	No	Yes	LOF		2	
+RCOR1	chr14	32358572	102730576						No	No	Yes	LOF		2	
+RELN	chr7	32358573	103989516						No	No	Yes	LOF		2	
+RIT1	chr1	32358574	155911349	minus					Expanded	No	No	LOF		3A	
+RPL11	chr1	32358575	23696835	plus					Expanded	No	No	LOF		3A	
+RPL22	chr1	32358576	6200842						No	No	Yes	LOF		2	
+RPS14	chr5	32358577	150449756						No	No	Yes	LOF		2	
+SALL3	chr18	32358578	78999974						No	No	Yes	LOF		2	
+SAMD9L	chr7	32358579	93148385	minus		"Hematologic neoplasms with germline predisposition associated with a constitutional disorder affecting multiple organ systems; Myeloid neoplasms with germline SAMD9L mutation, (ICC, PMID: 35767897)."			No	No	No	LOF		1A	
+SGK2	chr20	32358580	43585677						No	No	Yes	LOF		2	
+SOCS2	chr12	32358581	93576745						No	No	Yes	LOF		2	
+SPARC	chr5	32358582	151687165						No	No	Yes	LOF		2	
+SPECC1	chr17	32358583	20319026						No	No	Yes	LOF		2	
+SPTBN1	chr2	32358584	54671446	plus					No	Yes	No	FUS		2	
+SRP72	chr4	32358585	56503681	plus					Expanded	No	No	LOF		3A	
+SSBP2	chr5	32358586	81751253						No	No	Yes	LOF		2	
+STAT3	chr17	32358587	42388442	minus					No	Yes	No	GOF		2	
+STAT5a	chr17	32358588	42311943	plus					No	Yes	No	GOF		2	
+STAT5b	chr17	32358589	42276391	minus					No	Yes	No	GOF		2	
+STIL	chr1	32358590	47314147	minus					No	Yes	No	FUS		2	
+STIM1	chr11	32358591	4093208	plus					Expanded	No	No	LOF		3A	
+STRN	chr2	32358592	36966536	minus					No	Yes	No	FUS		2	
+SUZ12	chr17	32358593	32001045						No	No	Yes	LOF		2	
+SYK	chr9	32358594	90898560						No	No	Yes	LOF		2	
+TAL1	chr1	32358595	47232225	minus					No	Yes	No	FUS		2	
+TES	chr7	32358596	116258783						No	No	Yes	LOF		2	
+TP53BP1	chr15	32358597	43493156	minus					No	Yes	No	FUS		2	
+TPO	chr2	32358598	1542727						No	No	Yes	LOF		2	
+trisomy 8	chr8	32358599	145138636						No	No	No	Structural aberration	"MDS/AML (10-19%), AML (?20% blasts)"	1A	"Optical Genome Mapping detected a trisomy 8 with a fractional copy number of  [].  Trisomy for chromosome 8 is recurrent abnormality in both de novo and treatment-related leukemia.  In the context of a diagnosis of AML, trisomy 8 is associated with an intermediate prognosis (PMID:35797463)"
+TRPS1	chr8	32358600	115669028						No	No	Yes	LOF		2	
+TYK2	chr19	32358601	10380572	minus			NPM1		No	Yes	No	GOF		"1A if fused with NPM1, otherwise 3A"	"Optical Genome Mapping detected a translocation t(5;19)(q35;p13) with a variant allele frequency (VAF) of [%].  This is a rare, recurrent abnormality resulting in a NPM1::TYK2  fusion that has been included in the most recent International Consensus Classification of Myeloid Neoplasms and, in the context of AML, is considered to be a recurrent genetic entity (ICC, PMID: 35767897). Due to the rarity of this translocation the prognosis is unclear. "
+UBA1	chrX	32358602	47215128	plus					No	Yes	No	LOF		2	
+USP2	chr11	32358603	119381690	minus					No	Yes	No	FUS		2	
+UTY	chrY	32358604	13480673						No	No	Yes	LOF		2	
+UTY	chrY	32358605	13480673						No	No	Yes	LOF		2	
+WDR48	chr3	32358606	39096664	plus					No	Yes	No	FUS		2	
+ZC3H18	chr16	32358607	88631966						No	No	Yes	LOF		2	
+ZNF292	chr6	32358608	87265943	plus					No	Yes	No	FUS		2	
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
