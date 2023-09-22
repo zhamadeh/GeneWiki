@@ -1,0 +1,3 @@
+title	choromosome	start	end	strand
+ABL1	chr 20	"32,050,034"	"32,050,034"	plus
+ABL2	chr 20	"32,050,034"	"32,050,034"	plus
